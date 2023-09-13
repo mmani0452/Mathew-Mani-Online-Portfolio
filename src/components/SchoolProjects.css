@@ -1,0 +1,23 @@
+.grid2{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    /*flex-wrap: wrap;*/
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+    border-radius: 10px;
+
+}
+
+.individual{
+    font-size: 50px;
+    text-shadow: 6px 6px white;
+    margin: 10px;
+    padding: 6px;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: flex;
+    background-color: papayawhip;
+    cursor:pointer;
+}
