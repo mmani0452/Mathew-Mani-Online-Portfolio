@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Mathew-Mani-Online-Portfolio/static/css/main.e20c7ec8.css",
+    "main.js": "/Mathew-Mani-Online-Portfolio/static/js/main.8aa3fa58.js",
+    "static/js/787.9dd7e702.chunk.js": "/Mathew-Mani-Online-Portfolio/static/js/787.9dd7e702.chunk.js",
+    "static/media/Globe_2_.png": "/Mathew-Mani-Online-Portfolio/static/media/Globe_2_.e1f76677dbe48c8e2a18.png",
+    "static/media/Globe_3_.png": "/Mathew-Mani-Online-Portfolio/static/media/Globe_3_.f44296be0b2bfd9ed270.png",
+    "static/media/Globe_1_.png": "/Mathew-Mani-Online-Portfolio/static/media/Globe_1_.b9568b82d8b3f6c644e6.png",
+    "static/media/Student_database_2.png": "/Mathew-Mani-Online-Portfolio/static/media/Student_database_2.3680dbc92f1a19f9758a.png",
+    "static/media/Globe_5_.png": "/Mathew-Mani-Online-Portfolio/static/media/Globe_5_.3d9cb1d1a74cd5821f3e.png",
+    "static/media/Weaver_image.png": "/Mathew-Mani-Online-Portfolio/static/media/Weaver_image.c21d85ddec3724dc849a.png",
+    "static/media/Globe_4_.png": "/Mathew-Mani-Online-Portfolio/static/media/Globe_4_.49ab444500b703eaa2f4.png",
+    "static/media/Student_database_3.png": "/Mathew-Mani-Online-Portfolio/static/media/Student_database_3.10740e58fe4c142464d4.png",
+    "static/media/Student_database_1.png": "/Mathew-Mani-Online-Portfolio/static/media/Student_database_1.7b03d3a4bc7987cfcf7f.png",
+    "static/media/24_image.png": "/Mathew-Mani-Online-Portfolio/static/media/24_image.e241161ebdf2c3d79b93.png",
+    "index.html": "/Mathew-Mani-Online-Portfolio/index.html",
+    "main.e20c7ec8.css.map": "/Mathew-Mani-Online-Portfolio/static/css/main.e20c7ec8.css.map",
+    "main.8aa3fa58.js.map": "/Mathew-Mani-Online-Portfolio/static/js/main.8aa3fa58.js.map",
+    "787.9dd7e702.chunk.js.map": "/Mathew-Mani-Online-Portfolio/static/js/787.9dd7e702.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e20c7ec8.css",
+    "static/js/main.8aa3fa58.js"
+  ]
+}
